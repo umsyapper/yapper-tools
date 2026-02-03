@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Text Encrypt/Decrypt",
-  description: "This was coded for fun, don't use it for real security purposes.",
+  title: "Yapper Tools",
+  description: "My own collection of fun tools to make",
 };
 
 export default function RootLayout({
